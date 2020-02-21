@@ -17,12 +17,12 @@
       "path---docs-examples-simple-usage-c315364cbd1edc41c6a4.js.map"
     ],
     "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js": [
-      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-d50c5392147dccc1f6cc.js",
-      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-d50c5392147dccc1f6cc.js.map"
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-f6634fb533923ea1db47.js",
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-f6634fb533923ea1db47.js.map"
     ],
     "path---": [
-      "path----3fca8393c8ce999932c5.js",
-      "path----3fca8393c8ce999932c5.js.map"
+      "path----aabfe7fc92e441d94f0a.js",
+      "path----aabfe7fc92e441d94f0a.js.map"
     ],
     "path---docs-examples-animation": [
       "path---docs-examples-animation-633447d676a980c5bd50.js",
@@ -49,8 +49,8 @@
       "path---landing-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-api-dots": [
-      "path---docs-api-dots-742ebb3c1c94adc756d2.js",
-      "path---docs-api-dots-742ebb3c1c94adc756d2.js.map"
+      "path---docs-api-dots-825f8f653a7e022a80b6.js",
+      "path---docs-api-dots-825f8f653a7e022a80b6.js.map"
     ],
     "path---docs-api-carousel": [
       "path---docs-api-carousel-69d7a5db95fd45478396.js",
@@ -73,9 +73,9 @@
       "component---src-pages-404-js-23f9dfcad6da6c583751.js.map"
     ],
     "commons": [
-      "commons-2c929126f625cf876d49.js",
+      "commons-a8cfe9e6094cb755c1fb.js",
       "build-js-styles.css",
-      "commons-2c929126f625cf876d49.js.map",
+      "commons-a8cfe9e6094cb755c1fb.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -95,21 +95,25 @@
       "path---docs-examples-slides-per-scroll-6d4472463e292adf4b15.js.map"
     ],
     "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js": [
-      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-27f58f591143ce80b08f.js",
-      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-27f58f591143ce80b08f.js.map"
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-ac369c662acfe2c6590b.js",
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-ac369c662acfe2c6590b.js.map"
     ],
     "path---docs-examples-infinite": [
       "path---docs-examples-infinite-5a28d5649259041af47a.js",
       "path---docs-examples-infinite-5a28d5649259041af47a.js.map"
+    ],
+    "path---docs-examples-rtl": [
+      "path---docs-examples-rtl-9e0bd18f2788bb596559.js",
+      "path---docs-examples-rtl-9e0bd18f2788bb596559.js.map"
     ],
     "path---docs-examples-thumbnails": [
       "path---docs-examples-thumbnails-845cbcfe6b7298bc94b7.js",
       "path---docs-examples-thumbnails-845cbcfe6b7298bc94b7.js.map"
     ],
     "app": [
-      "app-7bb435a55f52f4ab82db.js",
+      "app-0e52f7f962ec6ac2729b.js",
       "build-js-styles.css",
-      "app-7bb435a55f52f4ab82db.js.map",
+      "app-0e52f7f962ec6ac2729b.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-examples-draggable": [
